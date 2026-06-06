@@ -253,15 +253,3 @@ This project demonstrates:
 ```
 ```
 
-## Screenshots
-
-### Portfolio Homepage
-
-![Homepage](screenshot/demo.png)
-
-### ECS Cluster
-
-![Cluster](screenshot/ECS-cluster.png)
-
-
-
