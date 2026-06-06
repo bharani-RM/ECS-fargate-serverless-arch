@@ -1,0 +1,11 @@
+User Request
+     ↓
+ALB DNS
+     ↓
+Target Group
+     ↓
+Healthy Fargate Task
+     ↓
+Container (Nginx)
+     ↓
+Portfolio HTML/CSS
